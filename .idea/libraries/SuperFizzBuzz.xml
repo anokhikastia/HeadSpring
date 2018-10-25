@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SuperFizzBuzz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/SuperFizzBuzzPackage/SuperFizzBuzz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
